@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="ghostofyotei_style.css">
 </head>
 <body>
-   <img src="ghost-of-yotei-lede-web.webp" alt="Ghost of Yotei" width="500"/>
+   <img src="ghost-of-yotei-lede-web.webp" alt="Ghost of Yotei" width="100%"/>
 <!-- lie will be that ghost of yotei is a sequel to ghost of tsushima-->
  <p> <i><b> Ghost of Yotei</b></i> is a first person action adventure game made by Sucker Punch Productions, released on October 2nd, 2025, and is a sequel to <i> Ghost of Tsushima </i> </p>
- <img src="Ghost_of_Tsushima.jpg" alt="Ghost of Tsushima" width="200"/>
+ <img src="Ghost_of_Tsushima.jpg" alt="Ghost of Tsushima" width="40%"/>
  <br>
  <hr>
  <h2> Story and Setting</h2>
@@ -30,7 +30,8 @@
 <li> <b> The Wolf</b>: a wolf who also hates the Yotei six, and you form a bond with the wolf throughout the game as it helps you fight and you help free other wolves captured by Saito's clan.</li>
 <br>
 <li> <b> Side Characters/Wolf Pack</b>: Vendors or fighters who help you on your mission by selling or giving you items and quests, or fight with you as they have personal vendettas against the Yotei six.</li>
-<img src="ghost of yotei wolf pack.webp" alt="Wolf Pack" width="450">
+
+<img src="ghost of yotei wolf pack.webp" alt="Wolf Pack" width="70%">
  </ul>
  <hr>
  <h3> Fun Facts about Ghost of Yotei</h3>
