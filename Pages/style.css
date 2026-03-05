@@ -13,13 +13,13 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #515167;
+  background-color: #ebbf6d;
   display: flex;
 }
 
 ul li a {
   display: block;
-  color: rgb(250, 245, 245);
+  color: rgb(255, 255, 255);
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -37,16 +37,28 @@ ul div.active {
 
 
 
-.container {
+.ghostofyotei {
     display: flex;
     align-items: center;
     gap: 10px;
+background-color: rgb(255, 238, 199);
+border: #fbe7c1 solid 10px;
 }
 
-.image {
-  display: block;
-  margin:auto;
+.minitotoro {
+    display:flex;
+    align-items: center;
+    gap: 20px;
+background-color: rgb(232, 232, 255);
+border: #e6e1f8 solid 10px;
 }
 
-
+.backbutton a {
+    top: 10px;
+    left: 10px;
+   font-size:25px;
+   list-style: none;
+   text-decoration: none;
+   display: inline-block;
+}
 
