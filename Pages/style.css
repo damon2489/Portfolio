@@ -13,7 +13,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #3a3a48;
+  background-color: #515167;
   display: flex;
 }
 
@@ -35,8 +35,17 @@ ul div.active {
   background-color: #04AA6D;
 }
 
-p div.ghostofyotei {
-text-align: right;
+
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.image {
+  display: block;
+  margin:auto;
 }
 
 
