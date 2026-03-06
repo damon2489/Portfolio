@@ -48,7 +48,7 @@ border: #fbe7c1 solid 10px;
 .minitotoro {
     display:flex;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 background-color: rgb(232, 232, 255);
 border: #e6e1f8 solid 10px;
 }
@@ -62,3 +62,16 @@ border: #e6e1f8 solid 10px;
    display: inline-block;
 }
 
+.experience {
+    background-color: rgb(250, 234, 206);
+    align-items: center;
+    gap: 20px;
+    border:rgb(248, 226, 183) solid 5px
+}
+
+.enlarge {
+    transition: transform 0.3s;
+}
+.enlarge:hover {
+    transform: scale(1.05);
+}
